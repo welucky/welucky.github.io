@@ -1,2 +1,2 @@
-@char:utf-8
+@charset=utf-8
 # 测试
